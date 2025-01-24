@@ -1,5 +1,5 @@
 # Card-EK-Analytics 💳
-> 카드 데이터를 활용한 EK(Elasticsearch-Kibana) 기반 데이터 시각화 프로젝트
+> 실 카드 데이터를 활용한 EK(Elasticsearch-Kibana) 기반 데이터 시각화 프로젝트
 
 # 📑 Table of Contents
 1. [Project Overview](#-project-overview)
@@ -10,7 +10,7 @@
 6. [Troubleshooting](#-troubleshooting)
 
 # 🎯 Project Overview
-카드사의 거래 데이터를 Elasticsearch와 Kibana를 활용하여 시각화하는 프로젝트입니다.
+카드사의 실 거래 데이터를 Elasticsearch와 Kibana를 활용하여 시각화하는 프로젝트입니다.
 
 ## 주요 목표
 - CSV 형태의 카드 거래 데이터 분석
