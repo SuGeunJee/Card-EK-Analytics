@@ -7,7 +7,7 @@
 3. [System Architecture](#-system-architecture)
 4. [Environment Setup](#-environment-setup)
 5. [Data Visualization](#-data-visualization)
-6. [Troubleshooting](#troubleshooting)
+6. [Troubleshooting](#-troubleshooting)
 
 ## 🎯 Project Overview
 우리카드의 실제 거래 데이터를 Elasticsearch와 Kibana를 활용하여 시각화하는 프로젝트입니다.
@@ -35,12 +35,12 @@
 
 ## 🔧 Environment Setup
 ### 1. Elasticsearch 설치 및 설정
-# Elasticsearch 설정
+### Elasticsearch 설정
 network.host: 0.0.0.0
 discovery.type: single-node
 
 ### 2. Kibana 설치 및 설정
-# Kibana 설정
+### Kibana 설정
 server.port: 5601
 server.host: "0.0.0.0"
 elasticsearch.hosts: ["http://localhost:9200"]
