@@ -28,6 +28,7 @@
 ![Kibana](https://img.shields.io/badge/Kibana%207.11.1-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ## 🏗 System Architecture
+![_- visual selection](https://github.com/user-attachments/assets/76f59835-be1a-43a1-ba32-dc24b78ef82a)
 [Elasticsearch] → 데이터 저장 및 인덱싱
      ↓
 [Kibana] → 데이터 시각화 <- [데이터 csv 파일]
@@ -43,6 +44,7 @@ discovery.type: single-node
 server.port: 5601
 server.host: "0.0.0.0"
 elasticsearch.hosts: ["http://localhost:9200"]
+
 
 ## 📈 Data Visualization
 [시각화 섹션 - 추후 추가 예정]
