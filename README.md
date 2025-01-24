@@ -2,11 +2,11 @@
 > 우리카드 실 데이터를 활용한 EK(Elasticsearch-Kibana) 기반 데이터 시각화 프로젝트
 
 ## 📑 Table of Contents
-1. [Project Overview](#project-overview)
-2. [Tech Stack](#tech-stack)
-3. [System Architecture](#system-architecture)
-4. [Environment Setup](#environment-setup)
-5. [Data Visualization](#data-visualization)
+1. [Project Overview](#-project-overview)
+2. [Tech Stack](#-tech-stack)
+3. [System Architecture](#-system-architecture)
+4. [Environment Setup](#-environment-setup)
+5. [Data Visualization](#-data-visualization)
 6. [Troubleshooting](#troubleshooting)
 
 ## 🎯 Project Overview
