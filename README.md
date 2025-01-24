@@ -10,7 +10,7 @@
 6. [Troubleshooting](#-troubleshooting)
 
 # 🎯 Project Overview
-우리카드의 실제 거래 데이터를 Elasticsearch와 Kibana를 활용하여 시각화하는 프로젝트입니다.
+카드사의 거래 데이터를 Elasticsearch와 Kibana를 활용하여 시각화하는 프로젝트입니다.
 
 ## 주요 목표
 - CSV 형태의 카드 거래 데이터 분석
