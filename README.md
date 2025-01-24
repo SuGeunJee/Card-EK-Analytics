@@ -20,13 +20,12 @@
 
 ## 🛠 Tech Stack
 ### Infrastructure
-Ubuntu 24.04 LTS
-VirtualBox
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-## EK Stack
-Elasticsearch 7.11.1 
-<br>
-Kibana 7.11.1
+### EK Stack
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch%207.11.1-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana%207.11.1-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ## 🏗 System Architecture
 [Elasticsearch] → 데이터 저장 및 인덱싱
