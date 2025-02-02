@@ -116,7 +116,7 @@ $ sudo systemctl restart kibana
 ![image (4)](https://github.com/user-attachments/assets/7b7d14a6-df99-4007-a734-b4e398c4fa6f)
 
 # 📈 Data Visualization
-## Project 1 - 카드 이벤트를 열려고 하는데, 가장 많은 매출을 올릴 수 있는 방법을 찾아라!
+## Project 1 - 신규 카드 이벤트로, 가장 많은 매출을 올릴 수 있는 방법을 찾는 프로젝트
 - 가장 많은 매출을 올린 나이대 분석 - 30~50대가 가장 많은 매출을 올림
 ![다운로드](https://github.com/user-attachments/assets/0155c691-9672-475b-a442-592efd09058d)
 
@@ -145,6 +145,7 @@ $ sudo systemctl restart kibana
 ![다운로드 (2)](https://github.com/user-attachments/assets/d9e799b3-e574-4e43-8c81-59289c9e30e8)
 
 - 데이터 상으로 볼 때, 30대 부터 체크카드 사용 실적이 줄어들고, 신용카드 사용 실적이 늘어나는 것을 확인
+- 결론적으로 앞선 프로젝트에서 가장 많은 매출을 올린 나이대가 신용카드 전환 대상인 것을 확인인
 
 ### 실질적으로 실행할 수 있는 이벤트
 **전환시 즉각적 혜택**
@@ -157,12 +158,7 @@ $ sudo systemctl restart kibana
 - 월 300만원 이상 → 추가 3% 할인
 - 월 500만원 이상 → 추가 5% 할인
 
-**주 전환 고객을 위한 업종별 혜택**
+**주 전환 고객(30~50대)을 위한 업종별 혜택**
 - 유통(94M) → 온라인몰 7% 할인
 - 요식업(31M) → 식당/카페 5% 할인
 - 자동차(7.5M) → 주유 리터당 100원 할인
-
-# ❗ Troubleshooting
-## 1. 외부 접속 문제
-문제: VirtualBox의 Ubuntu에서 실행 중인 Elasticsearch/Kibana에 윈도우에서 접속 불가
-해결: network.host와 server.host를 0.0.0.0으로 설정하여 외부 접속 허용
