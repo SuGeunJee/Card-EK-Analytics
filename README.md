@@ -1,4 +1,4 @@
-# Card-EK-Analytics 💳
+# CardData-EK-Analytics 💳
 > 실 카드 데이터를 활용한 EK(Elasticsearch-Kibana) 기반 데이터 시각화 프로젝트
 
 # 📑 Table of Contents
